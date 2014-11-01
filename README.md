@@ -23,13 +23,6 @@ Government, Private Transport Companies
 Devices
 Embedded Systems
 
-Platforms, Technologies to be used
-Non OS based, C, EmxPICM02 Development Board
-
-Data set, tools, resources useful in developing solution
-www.emertxe.com
-Download Board package (setup, installation etc) from here
-Hardware components will be provided to participating teams.
 
 Team: Champs
 Team Members:
